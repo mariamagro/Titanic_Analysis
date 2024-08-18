@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code and data for a project on predicting survival on the Titanic using machine learning models. The project was made in collaboration with  ([MarinaGRey](https://github.com/MarinaGRey)). It focuses on preprocessing the Titanic dataset and evaluating various machine learning techniques to predict survival outcomes.
+This repository contains code and data for a project on predicting survival on the Titanic using machine learning models. The project was made in collaboration with  [MarinaGRey](https://github.com/MarinaGRey). It focuses on preprocessing the Titanic dataset and evaluating various machine learning techniques to predict survival outcomes.
 
 ## Files
 
